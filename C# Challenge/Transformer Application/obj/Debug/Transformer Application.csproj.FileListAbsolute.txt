@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\ClassesinC\Transformer Application\bin\Debug\Transformer Application.exe.config
+C:\Users\hp\source\repos\ClassesinC\Transformer Application\bin\Debug\Transformer Application.exe
+C:\Users\hp\source\repos\ClassesinC\Transformer Application\bin\Debug\Transformer Application.pdb
+C:\Users\hp\source\repos\ClassesinC\Transformer Application\obj\Debug\Transformer Application.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\ClassesinC\Transformer Application\obj\Debug\Transformer Application.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ClassesinC\Transformer Application\obj\Debug\Transformer Application.exe
+C:\Users\hp\source\repos\ClassesinC\Transformer Application\obj\Debug\Transformer Application.pdb

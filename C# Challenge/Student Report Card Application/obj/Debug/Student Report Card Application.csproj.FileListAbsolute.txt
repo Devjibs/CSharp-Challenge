@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\ClassesinC\Student Report Card Application\bin\Debug\Student Report Card Application.exe.config
+C:\Users\hp\source\repos\ClassesinC\Student Report Card Application\bin\Debug\Student Report Card Application.exe
+C:\Users\hp\source\repos\ClassesinC\Student Report Card Application\bin\Debug\Student Report Card Application.pdb
+C:\Users\hp\source\repos\ClassesinC\Student Report Card Application\obj\Debug\Student Report Card Application.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\ClassesinC\Student Report Card Application\obj\Debug\Student Report Card Application.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ClassesinC\Student Report Card Application\obj\Debug\Student Report Card Application.exe
+C:\Users\hp\source\repos\ClassesinC\Student Report Card Application\obj\Debug\Student Report Card Application.pdb

@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\ClassesinC\Laundry Application\bin\Debug\Laundry Application.exe.config
+C:\Users\hp\source\repos\ClassesinC\Laundry Application\bin\Debug\Laundry Application.exe
+C:\Users\hp\source\repos\ClassesinC\Laundry Application\bin\Debug\Laundry Application.pdb
+C:\Users\hp\source\repos\ClassesinC\Laundry Application\obj\Debug\Laundry Application.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\ClassesinC\Laundry Application\obj\Debug\Laundry Application.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ClassesinC\Laundry Application\obj\Debug\Laundry Application.exe
+C:\Users\hp\source\repos\ClassesinC\Laundry Application\obj\Debug\Laundry Application.pdb
